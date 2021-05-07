@@ -1,0 +1,21 @@
+{
+    "name": "Rainbow-Theme",
+    "displayName": "Alex's Rainbow",
+    "description": "A fun, vibrant rainbow-colored theme for VS Code",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Alex Hertel's Rainbow Theme",
+                "uiTheme": "hc-black",
+                "path": "./themes/Alex Hertel's Rainbow Theme-color-theme.json"
+            }
+        ]
+    }
+}
